@@ -1,11 +1,11 @@
 
 <h1 align="center">ALURA TYPER</h1>
 
-<p>Projeto feito com base nos conhecimentos adquiridos nos cursos de JQuery da alura <a href="https://www.alura.com.br/curso-online-jquery-a-biblioteca-do-mercado">jQuery parte 1</a> e <a href="https://www.alura.com.br/curso-online-jquery-a-biblioteca-do-mercado-parte-2">jQuery parte 2</a>. Alura typer consiste em marcar o tempo de digitação do usuario quando estiver escrevendo o texto que aparece em cima</p>
+<p>Projeto feito com base nos conhecimentos adquiridos nos cursos de JQuery da alura <a href="https://www.alura.com.br/curso-online-jquery-a-biblioteca-do-mercado">jQuery parte 1</a> e <a href="https://www.alura.com.br/curso-online-jquery-a-biblioteca-do-mercado-parte-2">jQuery parte 2</a>. Alura typer consiste em marcar o tempo de digitação do usuario quando estiver escrevendo o texto que aparece em cima, para iniciar o jogo apenas clique em cima da caixa de texto e comece a digitar o mais rapido que conseguir.</p>
 
 <h2>Funcionalidades</h2>
 
-<p align="justify">Apos iniciar o servidor Node.js, o jogo mostra como funciona na pagina index e a opção de jogar. Ao jogar você possui a opção nos botões (Reiniciar o jogo, mostrar o placar, trocar frase, e trocar frase escolhendo um numero), no campo ao lado é possivel escolher o nome do jogador ou escolher um novoe por ultimo o botão de sincronizar que grava os dados do Score </p>
+<p align="justify">Apos iniciar o servidor Node.js, o jogo mostra como funciona na pagina index e a opção de jogar. Ao  clicar em jogar você possui a opção nos botões de (Reiniciar o jogo, mostrar o placar, trocar frase, e trocar frase escolhendo um numero), no campo ao lado é possivel escolher o nome do jogador ou escolher um novo nome e o ultimo o botão é para sincronizar os dados da pontuação realizada. </p>
 
 <h3>Tecnologias</h3>
 
