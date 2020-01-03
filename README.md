@@ -1,0 +1,2 @@
+# typing-time
+JOGO DE VELOCIDADE DE DIGITAÇÃO
