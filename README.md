@@ -1,7 +1,7 @@
 
 <h1 align="center">ALURA TYPER</h1>
 
-<p>Projeto feito com base nos conhecimentos adquiridos nos cursos de JQuery da alura <a href="https://www.alura.com.br/curso-online-jquery-a-biblioteca-do-mercado">jQuery parte 1</a> e <a href="https://www.alura.com.br/curso-online-jquery-a-biblioteca-do-mercado-parte-2">jQuery parte 2</a>. Alura typer consiste em marcar o tempo de digitação do usuario quando estiver escrevendo o texto que aparece a cima</p>
+<p>Projeto feito com base nos conhecimentos adquiridos nos cursos de JQuery da alura <a href="https://www.alura.com.br/curso-online-jquery-a-biblioteca-do-mercado">jQuery parte 1</a> e <a href="https://www.alura.com.br/curso-online-jquery-a-biblioteca-do-mercado-parte-2">jQuery parte 2</a>. Alura typer consiste em marcar o tempo de digitação do usuario quando estiver escrevendo o texto que aparece em cima</p>
 
 <h2>Funcionalidades</h2>
 
