@@ -5,7 +5,7 @@
 
 <h2>Funcionalidades</h2>
 
-<p>Apos iniciar o servidor Node.js, o jogo mostra como funciona na pagina index e a opção de jogar. Ao jogar você possui a opção nos botões (Reiniciar o jogo, mostrar o placar, trocar frase, e trocar frase escolhendo um numero), no campo ao lado é possivel escolher o nome do jogador ou escolher um novoe por ultimo o botão de sincronizar que grava os dados do Score </p>
+<p align="justify">Apos iniciar o servidor Node.js, o jogo mostra como funciona na pagina index e a opção de jogar. Ao jogar você possui a opção nos botões (Reiniciar o jogo, mostrar o placar, trocar frase, e trocar frase escolhendo um numero), no campo ao lado é possivel escolher o nome do jogador ou escolher um novoe por ultimo o botão de sincronizar que grava os dados do Score </p>
 
 <h3>Tecnologias</h3>
 
