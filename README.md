@@ -18,7 +18,7 @@
 - Selectize - Utilizado no Select com nome dos usuarios, com a opção de incluir um novo usuario.
 - Slick - Foi utilizado na Index.html para criação de Slide carousel. 
 
-<h3>Gif com a aplicação executando</h3>
+<h3>Gif com a aplicação executando:</h3>
 
 ![GIF 03-01-2020 19-54-07](https://user-images.githubusercontent.com/42179077/71754076-810d6480-2e63-11ea-8b60-77f1960d6d9c.gif)
 
